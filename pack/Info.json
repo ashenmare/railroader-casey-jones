@@ -1,0 +1,16 @@
+{
+  "identifier": "ashenmare/casey-jones",
+  "version": "0.1.0",
+  "name": "Casey Jones",
+  "author": "ashenmare",
+  "description": "Curve speed setting (1x, 1.5x, 2x, Unlimited) for the Auto Engineer's curve speed and car curve limits, with an Ignore car curve limits checkbox. Needs Allow Unsafe DLL Mods.",
+  "scope": "optional",
+  "assemblies": [
+    "CaseyJones.dll"
+  ],
+  "dependencies": {
+    "required": [
+      "rr/game >=0.6.2"
+    ]
+  }
+}
